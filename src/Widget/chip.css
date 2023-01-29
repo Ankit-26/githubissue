@@ -1,0 +1,9 @@
+.chip{
+        margin-left: 8px;
+        border-radius: 12px;
+}
+
+.chip div{
+                mix-blend-mode: difference;
+
+}
